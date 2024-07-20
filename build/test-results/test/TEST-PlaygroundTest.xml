@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PlaygroundTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-07-20T15:21:17" hostname="MacBook.local" time="0.022">
+  <properties/>
+  <testcase name="droppingGarbageWillIncreaseGarbageStackByOne()" classname="PlaygroundTest" time="0.016"/>
+  <testcase name="initializeAntsOnPlaygroundCorrectly()" classname="PlaygroundTest" time="0.002"/>
+  <testcase name="initializePlaygroundCorrectly()" classname="PlaygroundTest" time="0.002"/>
+  <testcase name="takingGarbageWillDecreaseGarbageStackByOne()" classname="PlaygroundTest" time="0.001"/>
+  <testcase name="initializeGarbageOnPlaygroundCorrectly()" classname="PlaygroundTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
